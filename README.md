@@ -1,0 +1,2 @@
+# Proyek-akhir-Mata-Kuliah-PBO
+Aplikasi yang dibangun merupakan aplikasi perbankan dengan 2 pengguna, yaitu nasabah dan admin. Pengguna dapat login ke aplikasi, mengakses saldo, menarik dan menambah saldo. Akun pengguna akan terblokir jika password yang salah dimasukkan sebanyak 3 kali. Admin dapat masuk dan mengelola akun pengguna dalam bentuk mengelola transaksi, menambah dan mengurangi akun, memblokir dan membuka blokir akun, dan mengubah pin.
